@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Student & Instructor Perspectives
+title: >
+ Project: Student & Instructor Perspectives
 ---
 
 # Table of Contents
