@@ -120,6 +120,10 @@ ul, ol, dl {
   margin-bottom: 1rem;
 }
 
+.secondlevel {
+  list-style-type: lower-alpha;
+}
+
 dt {
   font-weight: bold;
 }

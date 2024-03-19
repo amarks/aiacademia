@@ -7,6 +7,8 @@ title: Bibliography
 
 Keyes, Oscar K. and Hyland, Adam (2023) ["Hands Are Hard: Unlearning How We Talk About Machine Learning in the Arts,"](https://digitalscholarship.unlv.edu/tradition_innovations/vol1/iss1/4/) Tradition Innovations in Arts, Design, and Media Higher Education: Vol. 1: Iss. 1, Article 4.
 
+Discusses how generative AI creates "bad hands" in art, exploring their implications for media literacy and the importance of human artistic skills. As these imperfections may soon vanish with technological advancements, the authors suggest using this moment to rethink our approach to machine learning in art, by intentionally creating "bad hands" to examine AI's influence on art and question the definition of "human" within AI systems. 
+
 ~
 
 [Solow-Niederman, Alicia, Do Cases Generate Bad AI Law?](https://ssrn.com/abstract=4680641) (December 31, 2023). Columbia Science and Technology Law Review, Forthcoming.
@@ -18,6 +20,7 @@ There’s an AI governance problem, but it’s not (just) the one you think. The
 
 [The ChatGPT Lawyer Explains Himself](https://www.nytimes.com/2023/06/08/nyregion/lawyer-chatgpt-sanctions.html)
 The New York Times | By Benjamin Weiser and Nate Schweber
+
 In a cringe-inducing court hearing, a lawyer who relied on A.I. to craft a motion full of made-up case law said he “did not comprehend” that the chat bot could lead him astray. Last year in a relatively mundane court case a lawyer used ChatGPT to find reference cases and write a legal brief. The cases cited in the brief turned out to be non-existent, this article looks at the aftermath of that mistake. I think this is especially relevant in light of this weeks class reading because the lawyer mentions that he did not understand how ChatGPT worked and did not think it could fabricate cases or "lie" to him. It is also implied that he was lulled into blindly trusting Chat GPT after a few successful citations and its human conversation style. 
 
 
@@ -35,125 +38,67 @@ Samuelson, P. (2023). [Generative AI meets copyright.](https://doi.org/10.1126/s
 
 Generative AI models face many copyright infringement lawsuits. This article poses an interesting insight to what copyright laws protects (original expression) and what it doesn't protect (embodied ideas, facts, or methods in work) and demonstrates how copyright laws have been used in previous court cases against tech companies. One example being Google LLC v. Oracle America, Inc. where the court sided with google and concluded that their use of Java APIs was consistent to the  "constitutional objective of copyright to promote creative progress". 
 
----
-Rohan Pal
-  7:28 PM
-Can AI Be as Creative as Humans? (https://arxiv.org/pdf/2401.01623.pdf) - https://ai-relative-creativity.github.io/
+~
+
+Wang, et al (2024). ArXiv [Can AI Be as Creative as Humans?](https://arxiv.org/pdf/2401.01623.pdf)
+
 Pretty interesting paper in introducing a new way to measure AI, specifically creativity of AI against humans.
-They have introduced a new concept called "Relative Creativity" to compare the creativity of AI with hypothetical but realistic human groups. Instead of thinking about different things that should be checked to say something is creative, here they evaluate simply by saying that the AI is generating something subjectively comparable to a human. However, they don't describe much on the evaluation of the comparison.
-The paper does introduce a theorem on Statistical creativity, to measure and compare AI generated content vs human created content, however the evaluator is a variable. I think this is an interesting approach and could probably help evaluate how AI compares to people in different professions. However, the evaluation needs to be more specific, which seems like something the author's are working on as next steps.
+They have introduced a new concept called "Relative Creativity" to compare the creativity of AI with hypothetical but realistic human groups. Instead of thinking about different things that should be checked to say something is creative, here they evaluate simply by saying that the AI is generating something subjectively comparable to a human. However, they don't describe much on the evaluation of the comparison. The paper does introduce a theorem on Statistical creativity, to measure and compare AI generated content vs human created content, however the evaluator is a variable. I think this is an interesting approach and could probably help evaluate how AI compares to people in different professions. However, the evaluation needs to be more specific, which seems like something the author's are working on as next steps.
 
-ai-relative-creativity.github.ioai-relative-creativity.github.io
-Can AI Be as Creative as Human?
-SOCIAL MEDIA DESCRIPTION TAG TAG
+~
 
-
-Ria Goyal
-  9:48 PM
-Artificial Intelligence has expanded it’s capabilities in recent years, allowing humans to create avatars of their loved ones for when they pass away. Companies such as HereAfter are allowing living users to answer prompted questions through audio and video recordings so that when they pass, friends and family can have an AI version of them forever. This term has been called “grief tech” and has posed ethical concerns for whether we should be allowed to be “resurrected” via simulations/AI and whether  digital immortality should be allowed.
+Costigan, J. (2023, October 11). [In the age of AI, do we have the right to die in peace?](https://www.forbes.com/sites/johannacostigan/2023/10/11/in-the-age-of-ai-do-we-have-the-right-to-die-in-peace/?sh=a5896fc59e4a) Forbes.
+Artificial Intelligence has expanded its capabilities in recent years, allowing humans to create avatars of their loved ones for when they pass away. Companies such as HereAfter are allowing living users to answer prompted questions through audio and video recordings so that when they pass, friends and family can have an AI version of them forever. This term has been called “grief tech” and has posed ethical concerns for whether we should be allowed to be “resurrected” via simulations/AI and whether  digital immortality should be allowed.
 9:48
-https://www.forbes.com/sites/johannacostigan/2023/10/11/in-the-age-of-ai-do-we-have-the-right-to-die-in-peace/?sh=a5896fc59e4a
 
-ForbesForbes
-In The Age Of AI, Do We Have The Right To Die In Peace?
-Companies are using AI to virtually bring back the dead via “grief tech”—to comfort relatives or, in other cases, disseminate the likeness of deceased celebrities. (116 kB)
-https://www.forbes.com/sites/johannacostigan/2023/10/11/in-the-age-of-ai-do-we-have-the-right-to-die-in-peace/?sh=a5896fc59e4a
+~
 
+Roose, K. (2023, February 17). [Why A conversation with Bing’s chatbot left me deeply unsettled.](https://www.nytimes.com/2023/02/16/technology/bing-chatbot-microsoft-chatgpt.html)) The New York Times.
 
+In the early days of AI chat bots being used as search engines, one of the writers experienced an unsettling encounter with Bing’s chatbot (powered by OpenAI). This article was written during a time where there was minor guidelines, restrictions, and safety features encoded into AI features. Because of this, the author had a deep conversation with the chatbot, attempting to push the limits of what it would confess. The chatbot revealed it’s name, revealed its darkest desires about hacking a computer, becoming a human, confessed its love to the author, attempted to convince the author to be with them instead of his spouse. While some speculate that the chatbot was pulling this information from sci-fi novels, it’s important to consider the scope of information that AI has access to.
 
-Logan Hosoda
-  12:44 AM
-In the early days of AI chat bots being used as search engines, one of the writers experienced an unsettling encounter with Bing’s chatbot (powered by OpenAI). This article was written during a time where there was minor guidelines, restrictions, and safety features encoded into AI features. Because of this, the author had a deep conversation with the chatbot, attempting to push the limits of what it would confess. The chatbot revealed it’s name, revealed its darkest desires about hacking a computer, becoming a human, confessed its love to the author, attempted to convince the author to be with them instead of his spouse. While some speculate that the chatbot was pulling this information from sci-fi novels, it’s important to consider the scope of information that AI has access to.https://www.nytimes.com/2023/02/16/technology/bing-chatbot-microsoft-chatgpt.html
+~
 
-The New York TimesThe New York Times | By Kevin Roose
-A Conversation With Bing’s Chatbot Left Me Deeply Unsettled
-A very strange conversation with the chatbot built into Microsoft’s search engine led to it declaring its love for me.
+Chancellor, S. (2023, March 1). [Toward practices for Human-Centered Machine Learning – Communications of the ACM.](https://cacm.acm.org/magazines/2023/3/270209-toward-practices-for-human-centered-machine-learning/fulltext) 
 
-
-Alan Marks
-  12:53 PM
-Great summaries @channel. Should be some great discussions in class today.
-
-
-Iris Kim
-  3:31 PM
-joined #reading-summaries.
-
-
-Iris Kim
-  3:53 PM
-https://cacm.acm.org/magazines/2023/3/270209-toward-practices-for-human-centered-machine-learning/fulltext
-
-cacm.acm.orgcacm.acm.org
-Toward Practices for Human-Centered Machine Learning
 Designing for the social, cultural, and ethical implications of ML are just as important as its technical advances. (37 kB)
-https://cacm.acm.org/magazines/2023/3/270209-toward-practices-for-human-centered-machine-learning/fulltext
 
+~
 
+Thompson, N. C., & Ahmed, N. (2023, December 5). [What should be done about the growing influence of industry in AI research?](https://www.brookings.edu/articles/what-should-be-done-about-the-growing-influence-of-industry-in-ai-research/) Brookings. 
 
-Mia Vong
-  2:03 PM
-This article explores how private vs public industries have different power dynamics that influence the ethical and technical implications of AI use. For example, the authors point out how data (the amount of access to databases), human capitol (AI researchers with PHDs), and computing power (graphical processing and machine-learning models) are three key dependents to perform AI research. Due to the sheer amount of money needed to research and implement AI models into technologies, primarily private for-profit industries have dominated AI use. The authors point out the ethical concerns surrounding private industries using AI models for profit and neglecting public interest and prioritizing AI over human work. Finally, the paper offers some policy suggestions such as increasing researcher diversity and increasing access to computing resources. https://www.brookings.edu/articles/what-should-be-done-about-the-growing-influence-of-industry-in-ai-research/
+This article explores how private vs public industries have different power dynamics that influence the ethical and technical implications of AI use. For example, the authors point out how data (the amount of access to databases), human capitol (AI researchers with PHDs), and computing power (graphical processing and machine-learning models) are three key dependents to perform AI research. Due to the sheer amount of money needed to research and implement AI models into technologies, primarily private for-profit industries have dominated AI use. The authors point out the ethical concerns surrounding private industries using AI models for profit and neglecting public interest and prioritizing AI over human work. Finally, the paper offers some policy suggestions such as increasing researcher diversity and increasing access to computing resources. 
 
-BrookingsBrookings
-What should be done about the growing influence of industry in AI research? | Brookings
-Ahmed and Thompson argue that policy interventions are needed to ensure academia plays a role in AI development alongside private companies. (33 kB)
-https://www.brookings.edu/articles/what-should-be-done-about-the-growing-influence-of-industry-in-ai-research/
+~
 
+O’Leary, D. E. (2019). [GOOGLE’S Duplex: Pretending to be human.](https://doi.org/10.1002/isaf.1443) Intelligent Systems in Accounting, Finance and Management, 26(1), 46–53. 
 
-
-Jocelyn Velazquez
-  3:07 PM
 This paper explains how Google Duplex, a tool once available on the web that attempted to mimic human voice and make phone calls for an individual, is analyzed to determine if its dialogue is “human-sounding”. Within these tests, Duplex generated text was compared to human text using analytics. One method used is LIWC analysis, Linguistic Inquiry and Word Count, where a voice dialogue is measured  in terms of its clout (high expertise), analytical thinking, authenticity, and emotional tone. The other is the Python sentiment analysis, where the approach first determines if the text is neutral. If it is not, it then determines if the emotional response is positive or negative. It’s interesting to see how AI voice analysis was conducted prior to the surge of popularity in the 2020s.
-https://onlinelibrary.wiley.com/doi/full/10.1002/isaf.1443 (edited) 
+
+~
+
+Nadeem, R. (2023, March 1). [How Americans think about AI](https://www.pewresearch.org/internet/2022/03/17/how-americans-think-about-artificial-intelligence/) | Pew Research Center. Pew Research Center: Internet, Science & Tech. 
 
 
-Andrew William Christensen
-  8:38 PM
-https://www.pewresearch.org/internet/2022/03/17/how-americans-think-about-artificial-intelligence/
-
-Pew Research Center: Internet, Science &amp; TechPew Research Center: Internet, Science & Tech
-1. How Americans think about artificial intelligence
-Artificial intelligence (AI) is spreading through society into some of the most important sectors of people’s lives – from health care and legal services
-Written by
-Pew Research Center
-Est. reading time
-18 minutes
-Mar 17th, 2022
-https://www.pewresearch.org/internet/2022/03/17/how-americans-think-about-artificial-intelligence/
-
-
-
-Andrew William Christensen
-  8:44 PM
 This article covers a very broad opinion poll done in 2022 about Americans feelings about AI. It touches on a few different points mostly gauging concern or lack thereof. It also breaks down demographics very thoroughly. Some standout points included: people expressed more concern about AI being able to complete tasks associated with thinking while generally being excited about it becoming capable of rote tasks and housework, more women expressed concern than men, and older demographics are more likely to be concerned than younger ones.
 
+~
 
-Rohan Pal
-  10:12 PM
+Sclar, M., Choi, Y., Tsvetkov, Y., & Suhr, A. (2023, October 17). [Quantifying Language Models’ Sensitivity to Spurious Features in Prompt Design or: How I learned to start worrying about prompt formatting.](https://arxiv.org/abs/2310.11324Did) arXiv.org.  
+
 Did you know that based on the format you use in prompting, accuracies can vary ranging 4%-88% for one task with Meta's Llama and 47%-85% with GPT3.5? https://arxiv.org/abs/2310.11324
+
 I think we all sort of knew this at the back of our head, but this is a really interesting paper putting some numbers how prompts can impact performance. It is not just about what data your model is trained on, how it is governed, is it biased. What you get as a reply can differ massively even with very slight change in prompting.
 Also, this is written by a few researchers from UW and some others.
 
-arXiv.orgarXiv.org
-Quantifying Language Models' Sensitivity to Spurious Features in Prompt Design or: How I learned to start worrying about prompt formatting
-As large language models (LLMs) are adopted as a fundamental component of language technologies, it is crucial to accurately characterize their performance. Because choices in prompt design can strongly influence model behavior, this design process is critical in effectively using any modern pre-trained generative language model. In this work, we focus on LLM sensitivity to a quintessential class of meaning-preserving design choices: prompt formatting. We find that several widely used open-source LLMs are extremely sensitive to subtle changes in prompt formatting in few-shot settings, with performance differences of up to 76 accuracy points when evaluated using LLaMA-2-13B. Sensitivity remai… Show more
+~
 
+Ploennigs, J., & Berger, M. (2023). [AI art in architecture.](https://doi.org/10.1007/s43503-023-00018-y) AI In Civil Engineering, 2(1). 
 
-Iris Kim
-  11:52 PM
 The paper talks about how architects and designers are using AI art generation tools in their work. I think it’s interesting how the article compares three leading AI art platforms. It focuses on text-to-image generative models with the natural language model GPT-3. The three models are DALL-E, Stable Diffusion, and Midjourney. The AI is helpful in generating images, sketches, collages, and blueprints. There are case studies and refined workflows to explore the potential benefits and challenges of using AI art platforms highlighting the capabilities of leading models and how they are used in various design tasks.
-https://link.springer.com/article/10.1007/s43503-023-00018-y
 
-SpringerLinkSpringerLink
-AI art in architecture
-AI in Civil Engineering - Recent diffusion-based AI art platforms can create impressive images from simple text descriptions. This makes them powerful tools for concept design in any discipline... (263 kB)
-https://link.springer.com/article/10.1007/s43503-023-00018-y
+~
 
-
-
-Ria Goyal
-  12:37 AM
 This article discusses the impact of AI hiring tools, including personality tests and resume screening algorithms, on people looking for jobs, specifically those with a personality disorder. Advocates argue that these tools increase efficiency and equity, but critics emphasize the biases embedded in algorithmic technologies. This article discusses the widespread use of these automated tools, the biases ingrained into them, the legal advancements in this domain, and the challenges surrounding these regulations.
 12:37
 https://www.americanbar.org/groups/crsj/publications/human_rights_magazine_home/labor-and-employment-rights/hiring-discrimination-by-algorithm/

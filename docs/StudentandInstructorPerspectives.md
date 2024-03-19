@@ -4,23 +4,28 @@ title: >
  Project: Student & Instructor Perspectives
 ---
 
+<hr/>
 ## Table of Contents
 
-1. Concept 
-1. User Research 
-	2. Method
-	1. Limitations
-1. Research Results 
-	1. Student
-	1. Teacher
-	1. Comparative  
-1. Directions For Future Research
-
-
+<ol>
+	<li>Concept</li>
+	<li>User Research</li>
+		<ol class="secondlevel">
+			<li>Method</li>
+			<li>Limitations</li>
+		</ol>
+	<li>Research Results</li>
+		<ol class="secondlevel">
+		<li>Student</li>
+		<li>Teacher</li>
+		<li>Comparative</li>
+		</ol>
+<li>Directions For Future Research</li>
+</ol>
+<hr/>
 
 ## HCDE DRG “AI Academia” Winter 2024
-Andrew Christensen
-Mia Vong
+Andrew Christensen<br/>Mia Vong
 
 ### Concept
 The rapid development of generative AI poses both ethical and logistical questions regarding the use of Chat GPT in an academic setting. Considering the controversial dilemmas of copyright, plagiarism and overall original thought, do students and educators share similar or conflicting opinions surrounding the use of Chat GPT? We are interested in researching the intersection of opinions between students and educators at the University of Washington. 

@@ -20,7 +20,7 @@ This Directed Research Group was held in Winter Quarter 2024 and became an open 
 
 **Reading**
 
-Each week, the group read one article or paper together, which we then discussed. Additionally, each team member read an additional article, wrote up a brief summary, and lead discussion. This work is encapsulated in the annotated bibliography available on this site. 
+Each week, the group read one article or paper together, which we then discussed. Additionally, each team member read an additional article, wrote up a brief summary, and led discussion. This work is encapsulated in the annotated bibliography available on this site. 
 
 **Research**
 
