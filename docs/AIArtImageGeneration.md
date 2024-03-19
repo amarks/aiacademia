@@ -1,7 +1,7 @@
 ---
 layout: page
 title: >
- Project: I Art Image Generation: User Study Report
+ Project: AI Art Image Generation: User Study Report
 ---
 
 ### **AI Art Image Generation: User Study Report**
