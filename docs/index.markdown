@@ -8,7 +8,7 @@ layout: home
 This Directed Research Group was held in Winter Quarter 2024 and became an open exploration of aspects of Generative AI as they existed at that time. Our group split the time between weekly readings and investigative work. 
 
 **Members**
-- Professor: Alan Marks
+- Professor: <a href="https://www.hcde.washington.edu/marks">Alan Marks</a>
 - Andrew Christensen
 - Ria Goyal
 - Logan Hosoda

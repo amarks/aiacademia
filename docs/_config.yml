@@ -21,7 +21,7 @@
 title: AI in Academia DRG
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This Winter 20224 DRG widely examined many aspects of AI, especially related to academia. 
+  This UW HCDE DRG was held in Winter 2024 and widely examined many aspects of AI, especially related to academia. <a href="https://www.hcde.washington.edu/research/directed">For more information.</a>
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://amarks.github.io/aiacademia" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
