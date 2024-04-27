@@ -21,7 +21,7 @@
 title: AI in Academia DRG
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This DRG examined the state-of-art in aspects related to academia. 
+  This Winter 20224 DRG widely examined many aspects of AI, especially related to academia. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://amarks.github.io/aiacademia" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
@@ -31,6 +31,8 @@ github_username:  jekyll
 theme: minima
 plugins:
   - jekyll-feed
+minima:
+  skin: dark
 
 # Exclude from processing.
 # The following items will not be processed, by default.
